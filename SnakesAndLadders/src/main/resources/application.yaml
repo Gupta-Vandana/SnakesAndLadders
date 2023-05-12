@@ -1,0 +1,7 @@
+demo:
+  numberOfPlayers: 2
+  boardSize: 10
+  numberOfSnakes: 2
+  numberOfLadders: 2
+  numberOfDies: 2
+  movementStrategy: sum
